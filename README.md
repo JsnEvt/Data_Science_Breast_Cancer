@@ -15,7 +15,7 @@ e fará uma previsão da probabilidade de ter, ou não a doença, exibindo, no f
 é feita usando probabilidades e juntamente com o aprendizado de máquina, o computador irá calcular a probabilidade de uma condição ser 
 verdadeira ou falsa, baseado nos cálculos aprendidos durante a leitura dos arquivos carregados. Eis o motivo pelo qual temos a condição de treino e teste. 
 
-**OBS. Vale salientar que o processo visa auxiliar um diagnóstico mais preciso e, em caso algum, substituir o exame minucioso de um especialista.**
+_**OBS. Vale salientar que o processo visa auxiliar um diagnóstico mais preciso e, em caso algum, substituir o exame minucioso de um especialista.**_
 
 ### A operação
 
