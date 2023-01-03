@@ -43,6 +43,9 @@ valores que a previsão errou.
 
 Obs.: o código contém observações extras que poderão auxiliar no entendimento do trecho.
 
-<sub>O programa utilizado foi o Jupyter Notebook do Anaconda.Navigator</sub>
+<sub>O programa utilizado: Jupyter Notebook do Anaconda.Navigator</sub>
+
+<sub>Arquivo do código: Breast_cancer.ipynb</sub>
+
 
 
